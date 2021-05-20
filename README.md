@@ -1,4 +1,6 @@
 # Warm_Up_gsoc20
+Questions from https://github.com/rstats-gsoc/gsoc2020/wiki/Machine-learning-toolkit-for-predicting-disease-associated-genetic-variants
+
 ## Easy :
 
 ###	Can you explain what is the convolutional neural network?
